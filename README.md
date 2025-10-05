@@ -19,7 +19,7 @@ A simple and clean website built using **HTML** and **CSS**  **JS** — created 
 
 ## 🖼️ Project Preview
 
-![Preview](image/A.JPG)  
+![Preview](image/A.JPG.png)  
 *Replace with an actual image or screenshot from your project.*
 
 ---
